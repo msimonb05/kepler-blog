@@ -7,8 +7,10 @@ The objective is to show the wonders of the universe, making the mysteries of sp
 
 Note from Developer:
 **This is just for a university project.**
-This is not yet final.
-Thank you for understanding
+\This is not yet final.
+\Thank you for understanding.
+
+[Link here](https://msimonb05.github.io/kepler-blog/)
 
 Sincerely,
 Mark
