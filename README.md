@@ -10,4 +10,5 @@ Note from Developer:
 This is not yet final.
 Thank you for understanding
 
-- Mark
+Sincerely,
+Mark
